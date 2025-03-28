@@ -1,7 +1,7 @@
 ## Ola! Tudo bem? 👋
 
 - 👨🏻‍🎓 Atualmente estou estudando Engenharia de Computação na UFMS
-- 👨🏻‍💻 Aprendendo Sobre Python e Djando com maior enfase
+- 👨🏻‍💻 Aprendendo Sobre Java e Spring Boot com maior enfase
 
 ##
 
